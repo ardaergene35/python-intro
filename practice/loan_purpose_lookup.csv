@@ -1,0 +1,7 @@
+loan_purpose_code,loan_purpose_group
+1,Konut (Home)
+2,Tasit (Auto)
+3,Egitim (Education)
+4,Ihtiyac (Personal)
+5,Ticari (Business)
+6,Diger (Other)
