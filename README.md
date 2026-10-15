@@ -1,5 +1,7 @@
 # Python Intro
 
+Facilitators: Furkan Kasapoğlu · Yağız Efe Korkmaz · Arda Ergene
+
 Click a badge to open the notebook in Colab. Run the **setup cells at the top (section 0)** first — they download the data files — then continue. Everyone works in their own session; to keep your changes use **File → Save a copy in Drive**.
 
 ## course
